@@ -2,7 +2,7 @@ jQuery(function($) {'use strict',
 	
 	//Countdown js
 	 $("#countdown").countdown({
-			date: "5 april 2016 13:00:00", //+1h pour le fuseau horaire
+			date: "6 april 2016 13:00:00", //+1h pour le fuseau horaire
 			format: "on"
 		},
 		
